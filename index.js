@@ -1,1 +1,1 @@
-module.exports = require('../../../../../.eslintplugin')
+module.exports = require('../../../../../../.eslintplugin')

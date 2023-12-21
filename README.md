@@ -35,7 +35,7 @@ Adding the plugin to the ESLint configuration file:
         "@mfgopen/local-pnpm"
     ],
     "rules": {
-        "local/enforce-only-string-literals-in-l10n-functions": "error"
+        "@mfgopen/local-pnpm/enforce-only-string-literals-in-l10n-functions": "error"
     },
     // ...
 }

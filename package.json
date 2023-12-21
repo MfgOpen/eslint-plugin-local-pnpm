@@ -1,0 +1,22 @@
+{
+  "name": "@mfgopen/eslint-plugin-local-pnpm",
+  "version": "1.0.0",
+  "description": "ESLint plugin for implementing a custom ESLint plugin (including custom rules) for a project locally.",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MfgOpen/eslint-plugin-local-pnpm.git"
+  },
+  "author": "ManufacturingOpen Project Contributors <contact@mfgopen.org>",
+  "bugs": {
+    "url": "https://github.com/MfgOpen/eslint-plugin-local-pnpm/issues"
+  },
+  "homepage": "https://github.com/MfgOpen/eslint-plugin-local-pnpm",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
